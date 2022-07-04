@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/arjen/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting'
+let g:netrw_dirhist_7='/home/arjen/.emacs.d'
+let g:netrw_dirhist_6='/home/arjen/Documents/School/fysica/verslag-practicum'
+let g:netrw_dirhist_5='/home/arjen/Documents/Projects/matrix-simulator'
+let g:netrw_dirhist_4='/home/arjen/.oh-my-zsh/themes'
+let g:netrw_dirhist_3='/home/arjen/Documents/Projects/Algorithms/search'
+let g:netrw_dirhist_2='/home/arjen/Documents/Projects/OBERON-BOT/.git'
+let g:netrw_dirhist_1='/home/arjen/bin'
